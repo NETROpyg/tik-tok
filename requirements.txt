@@ -1,0 +1,8 @@
+requests
+pycryptodome
+user_agent
+telebot
+uuid4
+datetime
+binascii
+MedoSigner
